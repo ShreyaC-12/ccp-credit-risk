@@ -1,0 +1,6 @@
+scenario,cover_1,cover_2,cover_3,defaulters_cover_2,cover_1_ok,cover_2_ok,cover_3_ok
+Worst hist. 2-day fall (24 Mar 2020),306.53,521.11,669.27,"CM06, CM01",True,True,True
+Worst hist. 2-day rise (26 Mar 2020),259.24,482.89,676.04,"CM04, CM10",True,True,True
+Hypothetical -10%,258.61,439.63,564.63,"CM06, CM01",True,True,True
+Hypothetical -15%,558.61,949.63,1219.63,"CM06, CM01",True,True,True
+Hypothetical +12%,321.82,599.46,839.25,"CM04, CM10",True,True,True
